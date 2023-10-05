@@ -1,0 +1,11 @@
+section: 1    name: door    id: AY01    quantity: 189    price: RM145.50    material: steel    supplier: The Motor Generals    
+section: 1    name: window    id: AY02    quantity: 9    price: RM123.40    material: glass    supplier: Clear And Squeak    
+section: 1    name: bumper    id: AY03    quantity: 45    price: RM234.10    material: steel    supplier: Metal Generalitics    
+section: 2    name: engine block    id: AY04    quantity: 177    price: RM1452.40    material: Steel    supplier: Hot Wheels Company    
+section: 2    name: piston    id: AY05    quantity: 238    price: RM105.50    material: Steel    supplier: The Motor Generals    
+section: 3    name: battery    id: AY06    quantity: 66    price: RM141.20    material: Nickel    supplier: Energy Boosters    
+section: 3    name: fuse    id: AY07    quantity: 81    price: RM91.60    material: Rubber    supplier: Mr Bob Saver    
+section: 4    name: headlamp    id: AY08    quantity: 3    price: RM150.00    material: glass    supplier: Shiny All The Day    
+section: 4    name: taillamp    id: AY09    quantity: 297    price: RM143.50    material: glass    supplier: Bling Bling    
+section: 5    name: airbag    id: AY10    quantity: 468    price: RM180.45    material: Nylon    supplier: Mr Bob Saver    
+section: 5    name: seat belt    id: AY11    quantity: 391    price: RM56.50    material: polyester    supplier: Mr Bob Saver    

@@ -1,0 +1,9 @@
+section: 2    name: engine block    id: BR01    quantity: 178    price: RM1689.30    material: steel    supplier: Fire Burner Corporation    
+section: 2    name: piston    id: BR02    quantity: 7    price: RM107.15    material: Steel    supplier: Mega Boosters    
+section: 3    name: battery    id: BR03    quantity: 314    price: RM146.70    material: lead acid    supplier: The Motor Generals    
+section: 3    name: fuse    id: BR04    quantity: 200    price: RM100.60    material: rubber    supplier: Mr Bob Saver    
+section: 4    name: headlamp    id: BR05    quantity: 134    price: RM146.90    material: glass    supplier: Touch And Glow    
+section: 4    name: taillamp    id: BR06    quantity: 96    price: RM153.00    material: glass    supplier: Bling Bling    
+section: 4    name: brake lamp    id: BR07    quantity: 237    price: RM147.10    material: Glass    supplier: Touch And Glow    
+section: 5    name: airbag    id: BR08    quantity: 72    price: RM153.50    material: Nylon    supplier: Colefa Khan    
+section: 5    name: seat belt    id: BR09    quantity: 3    price: RM111.00    material: polyester    supplier: Mr Bob Saver

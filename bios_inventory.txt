@@ -1,0 +1,7 @@
+section: 1    name: door    id: BS01    quantity: 173    price: RM114.50    material: steel    supplier: Open Cessamy    
+section: 1    name: window    id: BS02    quantity: 64    price: RM107.40    material: glass    supplier: Shiny All The Day    
+section: 1    name: bonnet    id: BS03    quantity: 6    price: RM189.25    material: Steel    supplier: Fire Burner Corporation    
+section: 2    name: engine block    id: BS04    quantity: 82    price: RM1736.45    material: steel    supplier: Fire Burner Corporation    
+section: 2    name: piston    id: BS05    quantity: 23    price: RM169.10    material: steel    supplier: Metal Generalitics    
+section: 3    name: battery    id: BS06    quantity: 8    price: RM151.50    material: Lithium    supplier: Energy Boosters    
+section: 3    name: fuse    id: BS07    quantity: 4    price: RM93.20    material: rubber    supplier: Colefa Khan  
